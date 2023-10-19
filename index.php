@@ -10,7 +10,9 @@
 </head>
 <body>
 <h1>un headear 1</h1>
-<h6>un headear 6</h6>    
+<h6>un headear 6</h6>  
+<h3>un headear 3</h3>    
+
 
 </body>
 </html>
