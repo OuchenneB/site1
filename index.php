@@ -9,6 +9,8 @@
     <script src='main.js'></script>
 </head>
 <body>
-<h1>un headear 1</h1>    
+<h1>un headear 1</h1>
+<h6>un headear 6</h6>    
+
 </body>
 </html>
